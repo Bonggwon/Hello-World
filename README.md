@@ -16,4 +16,8 @@ plt.plot(x, sin(x))
 ```
 
 Math text
-r$\sqrt{x^2 + y^2}$
+$y=\sqrt{x^2 + y^2}$
+
+test
+
+$\alpha$
